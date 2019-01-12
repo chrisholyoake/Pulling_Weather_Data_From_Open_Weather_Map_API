@@ -1,0 +1,604 @@
+﻿City,Country,AccentCity,Region, Population ,Latitude,Longitude
+shanghai,cn,Shanghai,23," 14,608,512 ",31.045556,121.399722
+sao paulo,br,S„o Paulo,27," 10,021,437 ",-23.473293,-46.665803
+kinshasa,cd,Kinshasa,6," 7,787,832 ",-4.3,15.3
+cairo,eg,Cairo,11," 7,734,602 ",30.05,31.25
+peking,cn,Peking,22," 7,480,601 ",39.928889,116.388333
+london,gb,London,H9," 7,421,228 ",51.514125,-0.093689
+bogota,co,Bogot·,34," 7,102,602 ",4.649178,-74.062827
+dhaka,bd,Dhaka,81," 6,493,177 ",23.7230556,90.4086111
+rio de janeiro,br,Rio de Janeiro,21," 6,023,742 ",-22.9,-43.233333
+santiago,cl,Santiago,12," 4,837,248 ",-33.45,-70.666667
+toronto,ca,Toronto,8," 4,612,187 ",43.666667,-79.416667
+sydney,au,Sydney,2," 4,394,585 ",-33.861481,151.205475
+wuhan,cn,Wuhan,12," 4,184,206 ",30.580125,114.273405
+chongqing,cn,Chongqing,33," 3,967,028 ",29.562778,106.552778
+xian,cn,Xian,26," 3,953,191 ",34.258333,108.928611
+chengdu,cn,Chengdu,32," 3,950,437 ",30.666667,104.066667
+alexandria,eg,Alexandria,6," 3,811,512 ",31.1980556,29.9191667
+tianjin,cn,Tianjin,28," 3,766,207 ",39.142222,117.176667
+melbourne,au,Melbourne,7," 3,730,212 ",-37.813938,144.963425
+abidjan,ci,Abidjan,82," 3,692,570 ",5.309657,-4.012656
+shenyang,cn,Shenyang,19," 3,512,192 ",41.792222,123.432778
+berlin,de,Berlin,16," 3,398,362 ",52.516667,13.4
+montreal,ca,Montreal,10," 3,268,513 ",45.5,-73.583333
+harbin,cn,Harbin,8," 3,229,883 ",45.75,126.65
+guangzhou,cn,Guangzhou,30," 3,152,825 ",23.116667,113.25
+madrid,es,Madrid,29," 3,102,644 ",40.408566,-3.69222
+nanjing,cn,Nanjing,4," 3,087,010 ",32.061667,118.777778
+kabul,af,Kabul,13," 3,043,589 ",34.516667,69.183333
+luanda,ao,Luanda,20," 2,776,125 ",-8.836804,13.233174
+addis abeba,et,Addis Abeba,44," 2,757,807 ",9.024325,38.749226
+taiyuan,cn,Taiyuan,24," 2,722,475 ",37.726944,112.470833
+salvador,br,Salvador,5," 2,711,903 ",-12.983333,-38.516667
+changchun,cn,Changchun,5," 2,537,421 ",43.88,125.322778
+gizeh,eg,Gizeh,8," 2,443,490 ",30.0086111,31.2122222
+fortaleza,br,Fortaleza,6," 2,416,920 ",-3.316667,-41.416667
+cali,co,Cali,29," 2,392,897 ",3.437222,-76.5225
+belo horizonte,br,Belo Horizonte,15," 2,373,255 ",-19.916667,-43.933333
+brasilia,br,BrasÌlia,7," 2,207,812 ",-15.783333,-47.916667
+santo domingo,do,Santo Domingo,5," 2,202,016 ",18.4666667,-69.9
+paris,fr,Paris,A8," 2,110,694 ",48.866667,2.333333
+jinan,cn,Jinan,25," 2,069,266 ",36.668333,116.997222
+tangshan,cn,Tangshan,10," 2,054,526 ",37.3325,114.701389
+dalian,cn,Dalian,19," 2,035,307 ",38.912222,121.602222
+medellin,co,MedellÌn,2," 2,000,001 ",6.25184,-75.563591
+algiers,dz,Algiers,1," 1,980,242 ",36.7630556,3.0505556
+accra,gh,Accra,1," 1,963,460 ",5.55,-0.2166667
+guayaquil,ec,Guayaquil,10," 1,952,029 ",-2.1666667,-79.9
+jilin,cn,Jilin,5," 1,881,977 ",43.850833,126.560278
+hangzhou,cn,Hangzhou,2," 1,878,129 ",30.29365,120.161419
+nanchang,cn,Nanchang,3," 1,871,351 ",28.55,115.933333
+conakry,gn,Conakry,4," 1,871,185 ",9.5091667,-13.7122222
+brisbane,au,Brisbane,4," 1,843,459 ",-27.47101,153.024292
+vancouver,ca,Vancouver,2," 1,837,970 ",49.25,-123.133333
+minsk,by,Minsk,4," 1,742,123 ",53.9,27.5666667
+hamburg,de,Hamburg,4," 1,733,846 ",53.55,10
+curitiba,br,Curitiba,18," 1,718,433 ",-25.416667,-49.25
+qingdao,cn,Qingdao,25," 1,642,245 ",36.098611,120.371944
+manaus,br,Manaus,4," 1,598,227 ",-3.113333,-60.025278
+xinyang,cn,Xinyang,9," 1,590,668 ",32.095833,114.120278
+barcelona,es,Barcelona,56," 1,570,378 ",41.398371,2.1741
+vienna,at,Vienna,9," 1,569,315 ",48.2,16.366667
+urumqi,cn,‹r¸mqi,13," 1,508,225 ",43.800965,87.600459
+recife,br,Recife,30," 1,478,118 ",-8.05,-34.9
+kumasi,gh,Kumasi,2," 1,468,797 ",6.6833333,-1.6166667
+perth,au,Perth,8," 1,446,715 ",-31.95224,115.861397
+cordoba,ar,Cordoba,5," 1,441,007 ",-31.413496,-64.181052
+lanzhou,cn,Lanzhou,15," 1,417,742 ",36.056389,103.792222
+belem,br,BelÈm,16," 1,407,737 ",-1.45,-48.483333
+fushun,cn,Fushun,19," 1,400,646 ",41.7,123.883333
+quito,ec,Quito,18," 1,399,814 ",-0.2166667,-78.5
+luoyang,cn,Luoyang,9," 1,390,581 ",34.683611,112.453611
+hefei,cn,Hefei,1," 1,388,904 ",31.863889,117.280833
+barranquilla,co,Barranquilla,4," 1,380,437 ",10.963889,-74.796389
+lubumbashi,cd,Lubumbashi,5," 1,374,808 ",-11.666667,27.466667
+porto alegre,br,Porto Alegre,23," 1,372,763 ",-30.033333,-51.2
+handan,cn,Handan,10," 1,358,318 ",36.566667,114.533333
+suzhou,cn,Suzhou,4," 1,343,091 ",31.311389,120.618056
+khulna,bd,Khulna,82," 1,342,429 ",22.8,89.55
+douala,cm,Douala,5," 1,338,144 ",4.0502778,9.7
+yaounde,cm,YaoundÈ,11," 1,299,446 ",3.8666667,11.5166667
+munich,de,Munich,2," 1,246,133 ",48.15,11.5833
+rosario,ar,Rosario,21," 1,218,497 ",-32.946818,-60.639317
+anshan,cn,Anshan,19," 1,199,275 ",41.123611,122.99
+xuzhou,cn,Xuzhou,4," 1,199,193 ",34.180454,117.15707
+fuzhou,cn,Fuzhou,7," 1,179,720 ",26.061389,119.306111
+guiyang,cn,Guiyang,18," 1,171,633 ",26.583333,106.716667
+goiania,br,Goi‚nia,29," 1,171,209 ",-16.666667,-49.266667
+guarulhos,br,Guarulhos,27," 1,169,601 ",-23.45068,-46.526175
+prague,cz,Prague,52," 1,154,508 ",50.083333,14.466667
+dubai,ae,Dubai,3," 1,137,376 ",25.258172,55.304717
+baku,az,Baku,9," 1,116,513 ",40.395278,49.882222
+brazzaville,cg,Brazzaville,12," 1,115,773 ",-4.2591667,15.2847222
+wuxi,cn,Wuxi,4," 1,108,647 ",31.568873,120.288573
+yerevan,am,Yerevan,11," 1,093,499 ",40.1811111,44.5136111
+copenhagen,dk,Copenhagen,17," 1,089,958 ",55.666667,12.583333
+adelaide,au,Adelaide,5," 1,074,168 ",-34.928661,138.598633
+sofia,bg,Sofia,42," 1,062,065 ",42.6833333,23.3166667
+datong,cn,Datong,24," 1,052,678 ",40.093611,113.291389
+tbilisi,ge,Tbilisi,19," 1,049,516 ",41.725,44.7908333
+xianyang,cn,Xianyang,26," 1,034,081 ",34.33778,108.70261
+campinas,br,Campinas,27," 1,031,573 ",-22.9,-47.083333
+ouagadougou,bf,Ouagadougou,53," 1,031,330 ",12.3702778,-1.5247222
+huainan,cn,Huainan,1," 1,027,655 ",32.626389,116.996944
+kunming,cn,Kunming,29," 1,023,674 ",25.038889,102.718333
+brussels,be,Brussels,11," 1,019,022 ",50.833333,4.333333
+shenzhen,cn,Shenzhen,30," 1,002,592 ",22.533333,114.133333
+nova iguacu,br,Nova IguaÁu,21," 1,002,129 ",-22.759188,-43.431887
+rongcheng,cn,Rongcheng,30," 1,001,985 ",23.528858,116.364159
+baoding,cn,Baoding,10," 995,652 ",38.851111,115.490278
+benxi,cn,Benxi,19," 987,717 ",41.288611,123.765
+birmingham,gb,Birmingham,A7," 984,336 ",52.466667,-1.916667
+mendoza,ar,Mendoza,13," 973,047 ",-32.890845,-68.827171
+cologne,de,Cologne,7," 968,823 ",50.933333,6.95
+calgary,ca,Calgary,1," 968,475 ",51.083333,-114.083333
+maceio,br,MaceiÛ,2," 955,010 ",-9.666667,-35.716667
+cartagena,co,Cartagena,35," 952,036 ",10.399722,-75.514444
+changzhou,cn,Changzhou,4," 949,018 ",31.783333,119.966667
+sao goncalo,br,S„o GonÁalo,21," 939,101 ",-22.800278,-43.025556
+sao luis,br,S„o LuÌs,13," 917,252 ",-2.516667,-44.266667
+huaibei,cn,Huaibei,1," 903,039 ",33.974444,116.791667
+cochabamba,bo,Cochabamba,2," 900,440 ",-17.3833333,-66.15
+pingdingshan,cn,Pingdingshan,9," 889,675 ",33.738472,113.301194
+qiqihar,cn,Qiqihar,8," 882,364 ",47.340833,123.967222
+mbuji-mayi,cd,Mbuji-Mayi,4," 874,974 ",-6.15,23.6
+ottawa,ca,Ottawa,8," 874,433 ",45.416667,-75.7
+wenzhou,cn,Wenzhou,2," 865,672 ",27.999416,120.66682
+tucuman,ar,Tucuman,24," 828,402 ",-26.824144,-65.2226
+edmonton,ca,Edmonton,1," 822,319 ",53.55,-113.5
+duque de caxias,br,Duque de Caxias,21," 818,339 ",-22.790321,-43.325009
+la paz,bo,La Paz,4," 812,819 ",-16.5,-68.15
+nanning,cn,Nanning,16," 803,788 ",22.816667,108.316667
+marseille,fr,Marseille,B8," 792,823 ",43.285413,5.37606
+anyang,cn,Anyang,9," 781,129 ",36.099444,114.328889
+hohhot,cn,Hohhot,20," 774,477 ",40.810556,111.652222
+valencia,es,Valencia,60," 769,897 ",39.466667,-0.366667
+xining,cn,Xining,6," 767,531 ",36.616667,101.766667
+liuzhou,cn,Liuzhou,16," 763,168 ",24.312582,109.389157
+natal,br,Natal,22," 763,057 ",-5.783333,-35.216667
+qinhuangdao,cn,Qinhuangdao,10," 759,718 ",39.931667,119.588333
+hengyang,cn,Hengyang,11," 759,602 ",26.888056,112.615
+taian,cn,Taian,25," 750,340 ",36.185278,117.12
+teresina,br,Teresina,20," 744,526 ",-5.083333,-42.816667
+xinxiang,cn,Xinxiang,9," 743,601 ",35.308889,113.867222
+sao bernardo do campo,br,S„o Bernardo do Campo,27," 743,386 ",-23.7,-46.55
+hegang,cn,Hegang,8," 743,307 ",47.4,130.366667
+campo grande,br,Campo Grande,11," 729,164 ",-20.45,-54.616667
+athens,gr,Athens,35," 729,139 ",37.9833333,23.7333333
+cucuta,co,C˙cuta,21," 721,406 ",7.893907,-72.507821
+langfang,cn,Langfang,10," 720,119 ",39.509722,116.694722
+ningbo,cn,Ningbo,2," 719,867 ",29.878186,121.549453
+yantai,cn,Yantai,25," 719,332 ",37.533333,121.4
+zhuzhou,cn,Zhuzhou,11," 709,358 ",27.691868,113.152137
+jaboatao,br,Jaboat„o,30," 702,632 ",-8.116667,-35.016667
+rajshahi,bd,Rajshahi,81," 700,206 ",24.3666667,88.6
+sarajevo,ba,Sarajevo,1," 696,726 ",43.85,18.3833333
+zhangjiakou,cn,Zhangjiakou,10," 692,602 ",40.81,114.879444
+cotonou,bj,Cotonou,14," 690,584 ",6.35,2.4333333
+zigong,cn,Zigong,32," 689,961 ",29.341622,104.776887
+fuxin,cn,Fuxin,19," 689,050 ",42.015556,121.658889
+liaoyang,cn,Liaoyang,19," 687,890 ",41.226111,123.056111
+sevilla,es,Sevilla,51," 686,647 ",37.382408,-5.976133
+la plata,ar,La Plata,1," 684,318 ",-34.921454,-57.954533
+bangui,cf,Bangui,18," 684,190 ",4.3666667,18.5833333
+osasco,br,Osasco,27," 677,869 ",-23.566667,-46.783333
+zhangdian,cn,Zhangdian,25," 669,770 ",36.790556,118.063333
+puyang,cn,Puyang,9," 666,322 ",35.702778,115.005278
+nantong,cn,Nantong,4," 666,251 ",32.030278,120.874722
+mudanjiang,cn,Mudanjiang,8," 665,915 ",44.583333,129.6
+santo andre,br,Santo AndrÈ,27," 662,387 ",-23.666667,-46.516667
+hamilton,ca,Hamilton,8," 653,637 ",43.25,-79.833333
+joao pessoa,br,Jo„o Pessoa,17," 650,896 ",-7.116667,-34.866667
+shaoyang,cn,Shaoyang,11," 649,452 ",26.965893,111.241376
+guilin,cn,Guilin,16," 649,352 ",25.281944,110.286389
+frankfurt,de,Frankfurt,5," 648,034 ",50.116667,8.683333
+wahran,dz,Wahran,9," 646,025 ",35.6911111,-0.6416667
+mar del plata,ar,Mar del Plata,1," 645,771 ",-38.002278,-57.557539
+quebec,ca,Quebec,10," 645,623 ",46.8,-71.25
+zhanjiang,cn,Zhanjiang,30," 637,790 ",21.281452,110.342713
+zaragoza,es,Zaragoza,52," 635,509 ",41.64531,-0.884861
+zhenjiang,cn,Zhenjiang,4," 632,552 ",32.209167,119.434167
+winnipeg,ca,Winnipeg,3," 632,069 ",49.883333,-97.166667
+dandong,cn,Dandong,19," 631,973 ",40.129167,124.394722
+shaoguan,cn,Shaoguan,30," 628,749 ",24.8,113.583333
+yancheng,cn,Yancheng,4," 628,441 ",33.385556,120.125278
+foshan,cn,Foshan,30," 627,348 ",23.026771,113.131483
+contagem,br,Contagem,15," 627,132 ",-19.916667,-44.1
+jibuti,dj,Jibuti,3," 623,891 ",11.595,43.1480556
+haikou,cn,Haikou,31," 615,835 ",20.045833,110.341667
+sao jose dos campos,br,S„o JosÈ dos Campos,27," 613,776 ",-23.183333,-45.883333
+taizhou,cn,Taizhou,4," 612,356 ",32.493333,119.910627
+xingtai,cn,Xingtai,10," 611,739 ",37.063056,114.494167
+glasgow,gb,Glasgow,V2," 610,271 ",55.833333,-4.25
+jinzhou,cn,Jinzhou,19," 604,269 ",41.107778,121.141667
+abu dhabi,ae,Abu Dhabi,1," 603,687 ",24.466667,54.366667
+luancheng,cn,Luancheng,10," 597,130 ",37.879167,114.651667
+dortmund,de,Dortmund,7," 594,255 ",51.516667,7.45
+stuttgart,de,Stuttgart,1," 591,688 ",48.766667,9.183333
+yingkou,cn,Yingkou,19," 591,159 ",40.637318,122.502508
+zhangzhou,cn,Zhangzhou,7," 589,831 ",24.513333,117.655556
+belfast,gb,Belfast,R3," 585,994 ",54.583333,-5.933333
+xiamen,cn,Xiamen,7," 578,337 ",24.479794,118.081869
+libreville,ga,Libreville,1," 578,156 ",0.3833333,9.45
+dusseldorf,de,D¸sseldorf,7," 577,139 ",51.216667,6.766667
+kaifeng,cn,Kaifeng,9," 576,915 ",34.744167,114.418611
+essen,de,Essen,7," 576,914 ",51.45,7.016667
+bengbu,cn,Bengbu,1," 576,648 ",32.940833,117.360833
+shihezi,cn,Shihezi,13," 572,772 ",44.3,86.033333
+bouake,ci,BouakÈ,90," 572,149 ",7.693846,-5.030307
+bucaramanga,co,Bucaramanga,26," 571,827 ",7.125393,-73.119804
+asmara,er,Asmara,0," 563,948 ",15.3333333,38.9333333
+uberlandia,br,Uberl‚ndia,15," 563,545 ",-18.916667,-48.3
+sorocaba,br,Sorocaba,27," 558,874 ",-23.483333,-47.45
+helsinki,fi,Helsinki,13," 558,457 ",60.175556,24.934167
+malaga,es,M·laga,51," 557,875 ",36.726666,-4.434802
+santiago,do,Santiago,25," 555,911 ",19.45,-70.7
+santiago de cuba,cu,Santiago de Cuba,15," 555,878 ",20.0247222,-75.8219444
+huaiyin,cn,Huaiyin,4," 555,230 ",33.588611,119.019167
+ribeirao preto,br,Ribeir„o PrÍto,27," 551,278 ",-21.166667,-47.8
+jiamusi,cn,Jiamusi,8," 549,549 ",46.833333,130.35
+salta,ar,Salta,17," 548,288 ",-24.785896,-65.411664
+neijiang,cn,Neijiang,32," 546,854 ",29.583536,105.06216
+bremen,de,Bremen,3," 546,429 ",53.083333,8.8
+sharjah,ae,Sharjah,6," 543,942 ",25.35731,55.403304
+maanshan,cn,Maanshan,1," 540,198 ",31.695678,118.498248
+yangzhou,cn,Yangzhou,4," 539,715 ",32.397222,119.435833
+kisangani,cd,Kisangani,9," 539,164 ",0.516667,25.2
+port said,eg,Port Said,19," 538,377 ",31.2666667,32.3
+tanggu,cn,Tanggu,28," 535,298 ",39.021111,117.646944
+jiangmen,cn,Jiangmen,30," 532,419 ",22.583333,113.083333
+yueyang,cn,Yueyang,11," 528,140 ",29.140833,113.111111
+cangzhou,cn,Cangzhou,10," 527,681 ",38.316667,116.866667
+cuiaba,br,Cuiab·,14," 521,961 ",-15.583333,-56.083333
+hanover,de,Hanover,6," 519,144 ",52.366667,9.716667
+changde,cn,Changde,11," 517,780 ",29.046378,111.678304
+jiaozuo,cn,Jiaozuo,9," 517,540 ",35.239722,113.233056
+wuhu,cn,Wuhu,1," 507,524 ",31.14607,118.57069
+duisburg,de,Duisburg,7," 505,271 ",51.433333,6.75
+zhuhai,cn,Zhuhai,30," 501,199 ",22.276944,113.567778
+gold coast,au,Gold Coast,4," 501,175 ",-28.00029,153.430878
+shashi,cn,Shashi,12," 498,780 ",30.307222,112.244722
+newcastle,au,Newcastle,2," 497,961 ",-32.927792,151.784485
+nuremberg,de,Nuremberg,2," 497,593 ",49.447778,11.068333
+leipzig,de,Leipzig,13," 492,637 ",51.3,12.333333
+aracaju,br,Aracaju,28," 490,184 ",-10.916667,-37.066667
+suez,eg,Suez,15," 488,124 ",29.9666667,32.55
+feira de santana,br,Feira de Santana,5," 481,926 ",-12.25,-38.95
+gomel,by,Gomel,2," 481,000 ",52.4416667,30.9833333
+dresden,de,Dresden,13," 480,801 ",51.05,13.75
+yichang,cn,Yichang,12," 476,725 ",30.77135,111.321458
+yinchuan,cn,Yinchuan,21," 475,101 ",38.468056,106.273056
+maoming,cn,Maoming,30," 473,251 ",21.65,110.9
+londrina,br,Londrina,18," 471,836 ",-23.3,-51.15
+jiaojiang,cn,Jiaojiang,2," 470,804 ",28.680278,121.442778
+juiz de fora,br,Juiz de Fora,15," 470,201 ",-21.751667,-43.352778
+san juan,ar,San Juan,18," 469,958 ",-31.5375,-68.536389
+liverpool,gb,Liverpool,H8," 468,946 ",53.416667,-3
+zunyi,cn,Zunyi,18," 466,292 ",27.543056,106.823056
+belford roxo,br,Belford Roxo,21," 466,101 ",-22.761995,-43.404654
+jiaxing,cn,Jiaxing,2," 466,101 ",30.752198,120.749997
+lyon,fr,Lyon,B9," 463,700 ",45.748457,4.846711
+kananga,cd,Kananga,3," 463,556 ",-5.895833,22.417778
+xiangfan,cn,Xiangfan,12," 462,956 ",32.042203,112.144794
+panzhihua,cn,Panzhihua,32," 461,513 ",26.547902,101.705386
+joinville,br,Joinville,26," 461,312 ",-26.3,-48.833333
+antwerp,be,Antwerp,1," 459,805 ",51.216667,4.416667
+niteroi,br,NiterÛi,21," 456,461 ",-22.90214,-43.130301
+hengshui,cn,Hengshui,10," 456,356 ",37.732222,115.701111
+santa fe,ar,Santa Fe,21," 456,044 ",-31.629484,-60.701036
+leeds,gb,Leeds,H3," 455,124 ",53.8,-1.583333
+sao joao de meriti,br,S„o Jo„o de Meriti,21," 454,855 ",-22.798614,-43.360894
+jining,cn,Jining,25," 450,327 ",35.405,116.581389
+constantine,dz,Constantine,4," 450,126 ",36.365,6.6147222
+chengde,cn,Chengde,10," 449,325 ",40.770278,118.169722
+xuchang,cn,Xuchang,9," 449,258 ",34.016667,113.816667
+sheffield,gb,Sheffield,L9," 447,048 ",53.366667,-1.5
+pereira,co,Pereira,24," 440,123 ",4.813333,-75.696111
+baoji,cn,Baoji,26," 438,295 ",34.365907,107.359045
+garoua,cm,Garoua,13," 436,932 ",9.3,13.4
+kousseri,cm,KoussÈri,12," 435,986 ",12.0783333,15.0308333
+edinburgh,gb,Edinburgh,U8," 435,794 ",55.95,-3.2
+ananindeua,br,Ananindeua,16," 433,956 ",-1.366667,-48.383333
+santa marta,co,Santa Marta,38," 431,788 ",11.240791,-74.19904
+el mahalla el kubra,eg,El Mahalla el Kubra,5," 431,088 ",30.9761111,31.1669444
+bristol,gb,Bristol,B7," 430,714 ",51.45,-2.583333
+luqiao,cn,Luqiao,2," 427,890 ",28.580835,121.377148
+chaozhou,cn,Chaozhou,30," 424,787 ",23.665129,116.637864
+likasi,cd,Likasi,5," 422,726 ",-10.981389,26.733333
+luxor,eg,Luxor,23," 422,408 ",25.6833333,32.65
+ibague,co,IbaguÈ,28," 421,689 ",4.438889,-75.232222
+shaoxing,cn,Shaoxing,2," 421,283 ",30.011019,120.571528
+asyut,eg,Asyut,17," 420,614 ",27.1827778,31.1827778
+luohe,cn,Luohe,9," 417,356 ",33.571667,114.035278
+florianopolis,br,FlorianÛpolis,26," 412,731 ",-27.583333,-48.566667
+santos,br,Santos,27," 411,411 ",-23.95,-46.333333
+toulouse,fr,Toulouse,B3," 411,145 ",43.599516,1.433188
+murcia,es,Murcia,31," 410,364 ",37.987041,-1.130042
+chaoyang,cn,Chaoyang,19," 410,005 ",41.570278,120.458611
+kitchener,ca,Kitchener,8," 409,111 ",43.45,-80.5
+shiyan,cn,Shiyan,12," 408,055 ",32.6475,110.778056
+santiago del estero,ar,Santiago del Estero,22," 407,636 ",-27.795112,-64.261489
+resistencia,ar,Resistencia,3," 406,967 ",-27.46056,-58.983886
+ribeirao das neves,br,Ribeir„o das Neves,15," 406,840 ",-19.783333,-44.1
+tanta,eg,Tanta,5," 404,934 ",30.7911111,30.9980556
+jixi,cn,Jixi,8," 403,759 ",45.3,130.966667
+yangjiang,cn,Yangjiang,30," 399,735 ",21.85,111.966667
+manchester,gb,Manchester,I2," 395,516 ",53.5,-2.216667
+vila velha,br,Vila Velha,8," 394,937 ",-20.333333,-40.283333
+weifang,cn,Weifang,25," 394,732 ",36.71,119.101944
+serra,br,Serra,8," 394,160 ",-20.116667,-40.3
+tallinn,ee,Tallinn,1," 394,023 ",59.4338889,24.7280556
+bamenda,cm,Bamenda,7," 393,871 ",5.9333333,10.1666667
+bello,co,Bello,2," 392,945 ",6.337315,-75.557951
+xinpu,cn,Xinpu,4," 392,444 ",34.599722,119.159444
+qandahar,af,Qandahar,23," 391,230 ",31.613323,65.710126
+diadema,br,Diadema,27," 390,641 ",-23.7,-46.616667
+corrientes,ar,Corrientes,6," 390,481 ",-27.480596,-58.834099
+campos,br,Campos,21," 387,422 ",-21.75,-41.3
+bochum,de,Bochum,7," 387,061 ",51.483333,7.216667
+maua,br,Mau·,27," 386,077 ",-23.666667,-46.45
+abomey-calavi,bj,Abomey-Calavi,5," 385,823 ",6.45,2.35
+betim,br,Betim,15," 384,038 ",-19.966667,-44.216667
+pasto,co,Pasto,20," 382,242 ",1.213611,-77.281111
+caxias do sul,br,Caxias do Sul,23," 381,277 ",-29.1689,-51.1785
+dezhou,cn,Dezhou,25," 379,555 ",37.448611,116.2925
+palma,es,Palma,7," 378,884 ",39.574337,2.655222
+brno,cz,Brno,78," 377,407 ",49.2,16.633333
+zhoukou,cn,Zhoukou,9," 377,061 ",33.633333,114.633333
+tirana,al,Tirana,50," 374,801 ",41.3275,19.8188889
+sao jose do rio preto,br,S„o JosÈ do Rio PrÍto,27," 374,706 ",-20.8,-49.383333
+xuanhua,cn,Xuanhua,10," 373,422 ",40.610278,115.044722
+pingxiang,cn,Pingxiang,3," 372,123 ",27.616667,113.85
+bobo dioulasso,bf,Bobo Dioulasso,51," 370,809 ",11.2,-4.3
+olinda,br,Olinda,30," 366,761 ",-8.016667,-34.85
+las palmas,es,Las Palmas,53," 365,418 ",28.099727,-15.41343
+wuppertal,de,Wuppertal,7," 363,240 ",51.266667,7.183333
+zhaoqing,cn,Zhaoqing,30," 361,969 ",23.051157,112.459722
+carapicuiba,br,CarapicuÌba,27," 361,120 ",-23.516667,-46.833333
+tamale,gh,Tamale,6," 360,644 ",9.4,-0.8333333
+neuquen,ar,Neuquen,15," 359,037 ",-38.951606,-68.059102
+anqing,cn,Anqing,1," 358,661 ",30.509167,117.050556
+manizales,co,Manizales,37," 357,819 ",5.06889,-75.517383
+sanmenxia,cn,Sanmenxia,9," 357,767 ",34.774722,111.181389
+neiva,co,Neiva,16," 352,859 ",2.927299,-75.281885
+anshun,cn,Anshun,18," 351,936 ",26.25,105.933333
+tema,gh,Tema,8," 351,556 ",5.6166667,-0.0166667
+bilbao,es,Bilbao,59," 349,270 ",43.260919,-2.938764
+campina grande,br,Campina Grande,17," 348,943 ",-7.216667,-35.883333
+camaguey,cu,Camag¸ey,5," 347,572 ",21.3808333,-77.9169444
+london,ca,London,8," 346,774 ",42.983333,-81.25
+chifeng,cn,Chifeng,20," 346,654 ",42.268333,118.963611
+zurich,ch,Zurich,25," 346,185 ",47.366667,8.55
+qitaihe,cn,Qitaihe,8," 345,033 ",45.8,130.85
+boma,cd,Boma,8," 344,522 ",-5.85,13.05
+soledad,co,Soledad,4," 342,562 ",10.918433,-74.76459
+zhongshan,cn,Zhongshan,1," 342,306 ",22.520576,113.382318
+piracicaba,br,Piracicaba,27," 342,216 ",-22.716667,-47.633333
+nice,fr,Nice,B8," 341,621 ",43.713644,7.25952
+aksu,cn,Aksu,13," 340,020 ",41.123056,80.264444
+leicester,gb,Leicester,H4," 339,240 ",52.633333,-1.133333
+leicester,gb,Leicester,H5," 339,240 ",52.664913,-1.034894
+macapa,br,Macap·,3," 338,937 ",0.033333,-51.05
+tungi,bd,Tungi,81," 337,620 ",23.89,90.4058333
+itaquaquecetuba,br,Itaquaquecetuba,27," 336,686 ",-23.483333,-46.35
+san jose,cr,San JosÈ,8," 335,056 ",9.933333,-84.083333
+bauru,br,Bauru,27," 335,031 ",-22.316667,-49.066667
+tieling,cn,Tieling,19," 333,907 ",42.293056,123.841389
+montes claros,br,Montes Claros,15," 332,384 ",-16.716667,-43.866667
+plovdiv,bg,Plovdiv,51," 332,088 ",42.15,24.75
+cariacica,br,Cariacica,8," 330,681 ",-20.266667,-40.416667
+bujumbura,bi,Bujumbura,2," 330,539 ",-3.3761111,29.36
+canoas,br,Canoas,23," 328,297 ",-29.933333,-51.183333
+bielefeld,de,Bielefeld,7," 327,198 ",52.033333,8.533333
+yanji,cn,Yanji,5," 326,957 ",42.771389,129.423333
+moji das cruzes,br,Moji das Cruzes,27," 325,753 ",-23.516667,-46.183333
+sao vicente,br,S„o Vicente,27," 324,464 ",-23.966667,-46.383333
+canberra,au,Canberra,1," 324,025 ",-35.27603,149.13435
+villavicencio,co,Villavicencio,19," 321,721 ",4.142002,-73.626645
+jundiai,br,JundiaÌ,27," 321,595 ",-23.183333,-46.866667
+pelotas,br,Pelotas,23," 320,680 ",-31.766667,-52.333333
+maroua,cm,Maroua,12," 319,974 ",10.5955556,14.3247222
+anapolis,br,An·polis,29," 319,592 ",-16.333333,-48.966667
+holguin,cu,HolguÌn,12," 319,114 ",20.8872222,-76.2630556
+shangrao,cn,Shangrao,3," 318,769 ",28.453221,117.968604
+hrodna,by,Hrodna,3," 317,366 ",53.6813889,23.8147222
+ostrava,cz,Ostrava,85," 317,136 ",49.811852,18.255282
+baicheng,cn,Baicheng,5," 316,970 ",45.616667,122.816667
+valladolid,es,Valladolid,55," 315,859 ",41.655181,-4.72372
+armenia,co,Armenia,23," 315,332 ",4.533889,-75.681111
+bonn,de,Bonn,7," 314,081 ",50.733333,7.1
+soacha,co,Soacha,33," 313,950 ",4.579368,-74.216819
+posadas,ar,Posadas,14," 313,438 ",-27.367077,-55.896078
+jinxi,cn,Jinxi,19," 313,247 ",40.764317,120.85327
+vitoria,br,VitÛria,8," 312,662 ",-20.316667,-40.35
+tongling,cn,Tongling,1," 312,588 ",30.933333,117.816667
+maringa,br,Maring·,18," 311,727 ",-23.416667,-51.916667
+cordoba,es,CÛrdoba,51," 311,186 ",37.89155,-4.772748
+jingdezhen,cn,Jingdezhen,3," 310,565 ",29.2947,117.207887
+guaruja,br,Guaruj·,27," 310,430 ",-24,-46.266667
+antofagasta,cl,Antofagasta,3," 309,835 ",-23.65,-70.4
+mannheim,de,Mannheim,1," 309,626 ",49.488333,8.464722
+coventry,gb,Coventry,C7," 308,314 ",52.416667,-1.55
+valledupar,co,Valledupar,10," 308,242 ",10.46314,-73.253224
+varna,bg,Varna,61," 307,952 ",43.2166667,27.9166667
+dongying,cn,Dongying,25," 306,450 ",37.456389,118.485556
+el faiyum,eg,El Faiy˚m,4," 306,421 ",29.3077778,30.84
+porto velho,br,PÙrto Velho,24," 306,206 ",-8.766667,-63.9
+franca,br,Franca,27," 305,047 ",-20.533333,-47.4
+kingston upon hull,gb,Kingston upon Hull,G6," 302,297 ",53.716667,-0.333333
+cardiff,gb,Cardiff,X5," 302,142 ",51.5,-3.2
+brest,by,Brest,1," 300,716 ",52.1,23.7
+bradford,gb,Bradford,B4," 299,310 ",53.783333,-1.75
+parana,ar,Parana,8," 299,257 ",-31.731967,-60.523802
+luzhou,cn,Luzhou,32," 295,056 ",28.872391,105.44049
+vina del mar,cl,Vina del Mar,1," 294,553 ",-33.008056,-71.519722
+blumenau,br,Blumenau,26," 293,955 ",-26.9222,-49.0615
+foz do iguacu,br,Foz do IguaÁu,18," 293,526 ",-25.55,-54.583333
+ponta grossa,br,Ponta Grossa,18," 292,179 ",-25.083333,-50.15
+bafoussam,cm,Bafoussam,8," 290,798 ",5.4666667,10.4166667
+paulista,br,Paulista,30," 289,977 ",-7.95,-34.883333
+limeira,br,Limeira,27," 289,671 ",-22.561667,-47.402778
+victoria,ca,Victoria,2," 289,625 ",48.433333,-123.35
+beihai,cn,Beihai,16," 289,568 ",21.483333,109.1
+huizhou,cn,Huizhou,30," 289,201 ",23.083333,114.4
+vigo,es,Vigo,58," 286,585 ",42.232823,-8.722637
+rangpur,bd,Rangpur,83," 285,586 ",25.75,89.25
+viamao,br,Viam„o,23," 285,274 ",-30.083333,-51.033333
+ismailia,eg,Ismailia,7," 284,851 ",30.5833333,32.2666667
+karlsruhe,de,Karlsruhe,1," 284,786 ",49.004722,8.385833
+nantes,fr,Nantes,B5," 284,677 ",47.216509,-1.552379
+suzano,br,Suzano,27," 283,319 ",-23.533333,-46.333333
+bahia blanca,ar,Bahia Blanca,1," 282,950 ",-38.719595,-62.272432
+valparaiso,cl,Valparaiso,1," 282,450 ",-33.047778,-71.601111
+itagui,co,Itag¸Ì,2," 281,858 ",6.171944,-75.611389
+narsingdi,bd,Narsingdi,81," 281,110 ",23.9208333,90.7180556
+chuzhou,cn,Chuzhou,1," 280,582 ",32.321944,118.297778
+barisal,bd,Barisal,84," 280,437 ",22.7,90.3666667
+windsor,ca,Windsor,8," 278,013 ",42.333333,-83.033333
+jujuy,ar,Jujuy,10," 277,150 ",-24.194565,-65.297116
+cuenca,ec,Cuenca,2," 276,964 ",-2.8833333,-78.9833333
+mokolo,cm,Mokolo,12," 275,750 ",10.7402778,13.8027778
+caucaia,br,Caucaia,6," 275,023 ",-3.7,-38.65
+kashi,cn,Kashi,13," 274,717 ",39.454722,75.979722
+strasbourg,fr,Strasbourg,C1," 273,506 ",48.600381,7.787355
+herat,af,Herat,11," 272,880 ",34.348167,62.199673
+guantanamo,cu,Guant·namo,10," 272,808 ",20.1444444,-75.2091667
+petropolis,br,PetrÛpolis,21," 272,694 ",-22.510833,-43.184444
+munster,de,M¸nster,7," 272,452 ",51.966667,7.633333
+monteria,co,MonterÌa,12," 272,424 ",8.747984,-75.881428
+wiesbaden,de,Wiesbaden,5," 272,337 ",50.083333,8.25
+gelsenkirchen,de,Gelsenkirchen,7," 271,647 ",51.516667,7.05
+tshikapa,cd,Tshikapa,3," 267,508 ",-6.416667,20.8
+halifax,ca,Halifax,7," 266,012 ",44.65,-63.6
+yingcheng,cn,Yingcheng,12," 265,886 ",30.95,113.55
+wuzhou,cn,Wuzhou,16," 265,846 ",23.483333,111.316667
+hulan ergi,cn,Hulan Ergi,8," 265,344 ",47.204167,123.633333
+monchengladbach,de,Mˆnchengladbach,7," 264,969 ",51.2,6.433333
+mianyang,cn,Mianyang,32," 264,136 ",31.459339,104.754235
+gijon,es,GijÛn,34," 262,573 ",43.535731,-5.661519
+augsburg,de,Augsburg,2," 261,842 ",48.366667,10.883333
+sincelejo,co,Sincelejo,27," 261,190 ",9.304722,-75.397778
+tongliao,cn,Tongliao,20," 261,110 ",43.6125,122.265278
+wollongong,au,Wollongong,2," 260,918 ",-34.424,150.893448
+uberaba,br,Uberaba,15," 260,847 ",-19.75,-47.916667
+stoke-on-trent,gb,Stoke-on-Trent,N4," 260,420 ",53,-2.183333
+jiujiang,cn,Jiujiang,3," 258,807 ",29.60794,115.887205
+jining,cn,Jining,20," 258,757 ",41.0275,113.105833
+yining,cn,Yining,13," 257,671 ",43.881111,81.245833
+rio branco,br,Rio Branco,1," 257,645 ",-9.966667,-67.8
+cascavel,br,Cascavel,18," 257,174 ",-24.95,-53.466667
+heze,cn,Heze,25," 254,602 ",35.243056,115.441111
+novo hamburgo,br,Novo Hamburgo,23," 253,846 ",-29.683333,-51.133333
+zhumadian,cn,Zhumadian,9," 253,536 ",32.979444,114.029444
+vitoria da conquista,br,VitÛria da Conquista,5," 253,144 ",-14.85,-40.85
+laohekou,cn,Laohekou,12," 253,112 ",32.385833,111.667778
+talcahuano,cl,Talcahuano,6," 252,969 ",-36.716667,-73.116667
+wolverhampton,gb,Wolverhampton,Q3," 252,792 ",52.583333,-2.133333
+dire dawa,et,Dire Dawa,48," 252,347 ",9.593056,41.866111
+floridablanca,co,Floridablanca,26," 252,271 ",7.062222,-73.08644
+suihua,cn,Suihua,8," 252,245 ",46.640556,126.996944
+barueri,br,Barueri,27," 251,999 ",-23.516667,-46.883333
+taubate,br,TaubatÈ,27," 251,647 ",-23.033333,-45.55
+nanyang,cn,Nanyang,9," 251,532 ",32.994722,112.532778
+aachen,de,Aachen,7," 251,104 ",50.770833,6.105278
+governador valadares,br,Governador Valadares,15," 250,882 ",-18.85,-41.933333
+santa clara,cu,Santa Clara,16," 250,518 ",22.1666667,-79.7666667
+praia grande,br,Praia Grande,27," 250,032 ",-24,-46.4
+san bernardo,cl,San Bernardo,12," 249,856 ",-33.6,-70.716667
+varzea grande,br,V·rzea Grande,14," 249,766 ",-15.65,-56.133333
+volta redonda,br,Volta Redonda,21," 249,584 ",-22.533333,-44.116667
+santa maria,br,Santa Maria,23," 249,224 ",-29.683333,-53.8
+ganzhou,cn,Ganzhou,3," 249,071 ",25.85,114.933333
+granada,es,Granada,51," 248,942 ",37.178354,-3.599201
+formosa,ar,Formosa,9," 248,756 ",-26.177534,-58.178139
+palmira,co,Palmira,29," 247,991 ",3.539444,-76.303611
+oshawa,ca,Oshawa,8," 247,989 ",43.9,-78.866667
+plymouth,gb,Plymouth,K4," 247,298 ",50.396389,-4.138611
+nottingham,gb,Nottingham,J8," 246,655 ",52.966667,-1.166667
+chemnitz,de,Chemnitz,13," 246,654 ",50.833333,12.916667
+rizhao,cn,Rizhao,25," 246,387 ",35.390278,119.545833
+southampton,gb,Southampton,M4," 246,201 ",50.9,-1.4
+brunswick,de,Brunswick,6," 245,259 ",52.266667,10.533333
+hebi,cn,Hebi,9," 244,662 ",35.899167,114.1925
+reading,gb,Reading,K7," 244,071 ",51.433333,-1
+santa luzia,br,Santa Luzia,15," 243,506 ",-19.783333,-43.866667
+yibin,cn,Yibin,32," 242,111 ",28.699702,104.549173
+aswan,eg,Aswan,16," 241,282 ",24.0875,32.8988889
+buenaventura,co,Buenaventura,29," 240,391 ",3.880099,-77.031164
+krefeld,de,Krefeld,7," 239,908 ",51.333333,6.566667
+xiantao,cn,Xiantao,12," 239,406 ",30.383333,113.4
+montpellier,fr,Montpellier,A9," 238,887 ",43.61092,3.87723
+gravatai,br,GravataÌ,23," 238,782 ",-29.9426,-50.9933
+temuco,cl,Temuco,4," 238,131 ",-38.733333,-72.6
+a coruna,es,A CoruÒa,58," 236,010 ",43.366609,-8.406812
+yuci,cn,Yuci,24," 235,929 ",37.680278,112.731944
+qena,eg,Qena,23," 235,390 ",26.17,32.7272222
+caruaru,br,Caruaru,30," 235,375 ",-8.283333,-35.966667
+kiel,de,Kiel,10," 235,264 ",54.333333,10.133333
+boa vista,br,Boa Vista,25," 235,159 ",2.816667,-60.666667
+derby,gb,Derby,D2," 235,029 ",52.933333,-1.5
+linfen,cn,Linfen,24," 232,566 ",36.088889,111.518889
+halle,de,Halle,14," 232,452 ",51.5,12
+gent,be,Gent,8," 231,493 ",51.05,3.716667
+ngaoundere,cm,NgaoundÈrÈ,10," 231,376 ",7.3166667,13.5833333
+sao jose dos pinhais,br,S„o JosÈ dos Pinhais,18," 229,988 ",-25.516667,-49.216667
+espoo,fi,Espoo,13," 229,528 ",60.216667,24.666667
+ipatinga,br,Ipatinga,15," 228,750 ",-19.5,-42.533333
+sumare,br,SumarÈ,27," 227,982 ",-22.8,-47.283333
+nassau,bs,Nassau,23," 227,936 ",25.0833333,-77.35
+iquique,cl,Iquique,15," 227,501 ",-20.22083,-70.14306
+liaocheng,cn,Liaocheng,25," 226,930 ",36.443889,115.964722
+arhus,dk,≈rhus,18," 226,716 ",56.153423,10.22553
+ranghulu,cn,Ranghulu,8," 226,298 ",46.65,124.866667
+huambo,ao,Huambo,8," 226,177 ",-12.776111,15.739167
+bukavu,cd,Bukavu,12," 225,431 ",-2.508333,28.860833
+juazeiro do norte,br,Juazeiro do Norte,6," 225,234 ",-7.2,-39.333333
+tianmen,cn,Tianmen,12," 224,871 ",30.65,113.1
+sucre,bo,Sucre,1," 224,846 ",-19.0430556,-65.2591667
+vitoria,es,Vitoria,59," 224,774 ",42.85,-2.666667
+magdeburg,de,Magdeburg,14," 224,428 ",52.166667,11.666667
+narayanganj,bd,Narayanganj,81," 223,773 ",23.6233333,90.5011111
+tongchuan,cn,Tongchuan,26," 223,603 ",34.898799,108.950562
+xintai,cn,Xintai,25," 222,459 ",35.900556,117.751944
+badalona,es,Badalona,56," 222,413 ",41.447145,2.244789
+graz,at,Graz,6," 222,326 ",47.066667,15.45
+embu,br,Embu,27," 221,737 ",-23.65,-46.85
+banja luka,ba,Banja Luka,2," 221,100 ",44.7758333,17.1855556
+oberhausen,de,Oberhausen,7," 220,916 ",51.466667,6.85
+wuxue,cn,Wuxue,12," 220,661 ",29.850578,115.552504
+bordeaux,fr,Bordeaux,97," 219,311 ",44.840439,-0.5805
+serekunda,gm,Serekunda,5," 218,790 ",13.4425,-16.6813889
+haibowan,cn,Haibowan,20," 218,427 ",39.664722,106.812222
+bertoua,cm,Bertoua,4," 218,217 ",4.5833333,13.6833333
+imperatriz,br,Imperatriz,13," 218,110 ",-5.533333,-47.483333
+san pedro de macoris,do,San Pedro de MacorÌs,24," 217,901 ",18.45,-69.3
+daloa,ci,Daloa,80," 217,876 ",6.877355,-6.450221
+colombo,br,Colombo,18," 217,002 ",-25.283333,-49.233333
+mage,br,MagÈ,21," 216,342 ",-22.655556,-43.015278
+concepcion,cl,Concepcion,6," 215,414 ",-36.833333,-73.05
+taboao da serra,br,Tabo„o da Serra,27," 214,527 ",-23.6,-46.766667
+nazret,et,Nazret,51," 214,034 ",8.55,39.266667
+freiburg,de,Freiburg,1," 213,920 ",48,7.85
+catamarca,ar,Catamarca,2," 213,601 ",-28.469574,-65.785239
+guangyuan,cn,Guangyuan,32," 213,365 ",32.442015,105.822996
+rennes,fr,Rennes,A2," 213,334 ",48.111981,-1.674291
+lubeck,de,L¸beck,10," 213,171 ",53.866667,10.7
+jacarei,br,JacareÌ,27," 213,114 ",-23.316667,-45.966667
+rancagua,cl,Rancagua,8," 212,696 ",-34.17083,-70.74444
+mostoles,es,MÛstoles,29," 212,504 ",40.320923,-3.862849
+marilia,br,MarÌlia,27," 212,222 ",-22.216667,-49.933333
+hailar,cn,Hailar,20," 211,066 ",49.2,119.7
+daliang,cn,Daliang,30," 210,411 ",22.850416,113.247006
+shuangyashan,cn,Shuangyashan,8," 209,521 ",46.636111,131.153889
+presidente prudente,br,Presidente Prudente,27," 209,507 ",-22.116667,-51.366667
+sanming,cn,Sanming,7," 209,444 ",26.248611,117.618611
+sohag,eg,Sohag,22," 209,440 ",26.55,31.7
+sao leopoldo,br,S„o Leopoldo,23," 209,233 ",-29.766667,-51.15
+oruro,bo,Oruro,5," 208,687 ",-17.9833333,-67.15
+la romana,do,La Romana,12," 208,439 ",18.4166667,-68.9666667
+gaborone,bw,Gaborone,9," 208,411 ",-24.6463889,25.9119444
+hangu,cn,Hangu,28," 208,369 ",39.248889,117.789167
+lobito,ao,Lobito,1," 207,957 ",-12.319722,13.599722
+dinajpur,bd,Dinajpur,83," 206,251 ",25.6333333,88.6333333
+itabuna,br,Itabuna,5," 205,666 ",-14.8,-39.266667
+suzhou,cn,Suzhou,1," 205,130 ",33.636111,116.978889
+sao carlos,br,S„o Carlos,27," 205,039 ",-22.016667,-47.9
+hobart,au,Hobart,6," 204,863 ",-42.883209,147.331665
+nanchong,cn,Nanchong,32," 204,368 ",30.775757,106.102938
+las tunas,cu,Las Tunas,13," 203,690 ",20.9616667,-76.9511111
+hortolandia,br,Hortol‚ndia,27," 203,537 ",-22.85,-47.25
+edea,cm,EdÈa,5," 203,170 ",3.8,10.1333333
+sao jose,br,S„o JosÈ,26," 203,142 ",-27.633333,-48.65
+djougou,bj,Djougou,13," 202,834 ",9.705,1.6669444
+tampere,fi,Tampere,15," 202,688 ",61.5,23.75
+yiyang,cn,Yiyang,11," 202,608 ",28.589167,112.328333
+linxia,cn,Linxia,15," 202,402 ",35.600278,103.206389
+fuenlabrada,es,Fuenlabrada,29," 202,088 ",40.284189,-3.794147
+mossoro,br,MossorÛ,22," 202,010 ",-5.191389,-37.344722
+cartagena,es,Cartagena,31," 201,977 ",37.605121,-0.986232
+yuncheng,cn,Yuncheng,24," 201,950 ",35.023056,110.992778
+itapevi,br,Itapevi,27," 201,752 ",-23.55,-46.933333
+sete lagoas,br,Sete Lagoas,15," 201,337 ",-19.45,-44.233333
+yamoussoukro,ci,Yamoussoukro,81," 200,659 ",6.820548,-5.276741
+santo domingo,ec,Santo Domingo,18," 200,421 ",-0.25,-79.15
